@@ -1,0 +1,34 @@
+Lenguaje C
+
+"No se puede concatenar con el signo +"
+
+
+El 0 es falso, todo lo demas es verdadero.
+
+
+Ahora se usan "mascaras o modificadores".
+
+%d (Imprime un numero entero)
+%f (Imprime un numero decimal)
+%c (Imprime un Caracter)
+%s (Imprime un array de caracteres, osea "String")
+
+
+printf (Imprime un archivo, como el alert)
+
+printf("Variable 1 : %d - Variable 2 : %d"var1, var2) ;
+
+& = se cumplan o no las condiciones, se ejecuta igual. / && = si una condicion no se cumple, no se ejecuta
+///////////////////////////////////////////////////////
+
+scanf (Espacio para ingresar string, numero etc)
+
+int var1;
+
+scanf ("%d", &var1) ;                           //El & es para rellenar la variable, es el permiso.//
+
+printf("Ingresaste : %d",var1);
+
+
+
+En el codigo C, es diferente sacar promedio de 2 numeros enteros.. BUSCARLO.
