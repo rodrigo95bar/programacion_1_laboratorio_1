@@ -32,3 +32,29 @@ printf("Ingresaste : %d",var1);
 
 
 En el codigo C, es diferente sacar promedio de 2 numeros enteros.. BUSCARLO.
+
+
+
+
+
+
+
+
+SERVIDOR GIT.
+
+-Commit (Foto de una carpeta en particular)
+
+-Repositorio
+
+-git init
+
+git status
+
+git add -A
+
+git log
+
+git remote add origin (mi link de git)
+
+
+git push -u origin master     //
